@@ -1,3 +1,6 @@
+Reference
+https://github.com/remarkablemark/cypress-cucumber-example
+
 # cypress-google-search
 
 [![E2E](https://github.com/remarkablemark/cypress-google-search/actions/workflows/e2e.yml/badge.svg)](https://github.com/remarkablemark/cypress-google-search/actions/workflows/e2e.yml)
@@ -29,7 +32,7 @@ npm install
 Open Cypress:
 
 ```sh
-npx cypress open
+npm run cypress:open
 ```
 
 ## CI

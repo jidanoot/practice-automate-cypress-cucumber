@@ -1,1 +1,7 @@
-{}
+{
+    "testFiles": "**/*.feature",
+    "integrationFolder": "cypress/feature",
+    "env": {
+        "TAGS": "@focus"
+    }
+}
